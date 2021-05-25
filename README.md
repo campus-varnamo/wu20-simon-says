@@ -19,10 +19,10 @@ Syftet med hackathonet var att lära sig utveckla i stora samtida grupper (mobb 
 ## Utvecklat i Mobb av WU20
 
 - [Viktor Lyresten](https://github.com/lyret) (Lärare)
-- [Daumantas Dani Indreika] (https://github.com/Justice3000)(Student) :rocket:
+- [Daumantas Dani Indreika](https://github.com/Justice3000) (Student) :rocket:
 - [Alma Härlin](https://github.com/Haal20) (Student)
-- [Wivianne Grapenholt](https://github.com/WiviWonderWoman)(student) :octocat:
+- [Wivianne Grapenholt](https://github.com/WiviWonderWoman) (Student) :octocat:
 - [Axel Svahn](https://github.com/axelsvahn) (Student)
-- [Sven Kilberg] (Student)
+- [Sven Kilberg](https://github.com/svenkilberg) (Student)
 - [Anthon Wellsjö](https://github.com/anthonwellsjo) (Student)
 - [Nandan Tyagi](https://github.com/nandantyagi) (Student)
